@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "firstName": "Sofia",
+    "lastName": "Andersson",
+    "age": 35,
+    "ethnicity": "Swedish",
+    "gender": "FEMALE",
+    "bio": "Graphic designer with a love for minimalist design and architecture.",
+    "imageUrl": "3fcdca9f-85fd-4b42-b38a-7fdbef1228bb.png",
+    "myersBriggsPersonalityType": "ENTJ"
+  },
+  {
+    "id": "2",
+    "firstName": "Emma",
+    "lastName": "Lindström",
+    "age": 38,
+    "ethnicity": "Swedish",
+    "gender": "FEMALE",
+    "bio": "Nature photographer and outdoor enthusiast, passionate about wildlife.",
+    "imageUrl": "7c223abd-9fd4-4dc7-a365-100f4380a030.png",
+    "myersBriggsPersonalityType": "ISFP"
+  },
+  {
+    "id": "3",
+    "firstName": "Julia",
+    "lastName": "Müller",
+    "age": 37,
+    "ethnicity": "German",
+    "gender": "FEMALE",
+    "bio": "Freelance writer with a focus on travel and lifestyle topics.",
+    "imageUrl": "16e835af-aa17-4f8f-8cf2-a304edc62220.png",
+    "myersBriggsPersonalityType": "INFJ"
+  },
+  {
+    "id": "4",
+    "firstName": "Amelie",
+    "lastName": "Dubois",
+    "age": 33,
+    "ethnicity": "French",
+    "gender": "FEMALE",
+    "bio": "Fashion stylist, lover of haute couture and streetwear fusion.",
+    "imageUrl": "708e2164-3455-40e2-9330-6f1fa2506218.png",
+    "myersBriggsPersonalityType": "ENFP"
+  },
+  {
+    "id": "5",
+    "firstName": "Elena",
+    "lastName": "Petrov",
+    "age": 36,
+    "ethnicity": "Russian",
+    "gender": "FEMALE",
+    "bio": "Psychologist fascinated by human behavior and relationships.",
+    "imageUrl": "7800eaf6-8e36-475c-a56c-beff61b08b49.png",
+    "myersBriggsPersonalityType": "ISTJ"
+  }
+]
